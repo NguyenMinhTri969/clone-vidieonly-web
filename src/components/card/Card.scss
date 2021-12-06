@@ -1,0 +1,19 @@
+.card {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    &__swiper {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+    &__main {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+.card > img {
+    opacity: 0;
+}
+.card:hover > img { opacity: 1; }

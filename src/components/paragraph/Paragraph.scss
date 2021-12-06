@@ -1,0 +1,98 @@
+@use "../../scss/" as *;
+
+.text {
+    font-family: $font-secondary;
+    color: $black;
+    margin: 0;
+    word-break: keep-all;
+    &__header {
+        font-size: 3.25rem;
+        font-weight: bold;
+    }
+    &__style__1 {
+        font-size: 1.75rem;
+        font-weight: 500;
+    }
+    &__style__2 {
+        font-weight: 300;
+        font-size: 1rem;
+        line-height: 1.5;
+    }
+    &__style__3 {
+        font-size: 0.8rem;
+        font-weight: 300;
+        line-height: 2.5;
+    }
+    &__style__4 {
+        font-size: 1.5rem;
+        font-weight: 500;
+        letter-spacing: -1px;
+    }
+    &__style__5 {
+        font-weight: 600;
+        font-size: 0.8rem;
+    }
+    &__style__6 {
+        font-weight: 500;
+        font-size: 4rem;
+    }
+    &__style__7 {
+        font-size: 1.2rem;
+        font-weight: 500;
+    }
+    &__style__8 {
+        font-size: 0.9rem;
+        font-weight: 300;
+    }
+    &__style__9 {
+        font-size: 0.7rem;
+        font-weight: 500; 
+    }
+    &__style__10 {
+        font-size: 0.6rem;
+        font-weight: 300;
+    }
+    &__spacing__1 {
+        margin: 0.5rem 0 0.75rem;
+    }
+    &__spacing__2 {
+        margin-bottom: 0.2rem;
+    }
+}
+
+.white {
+    color: $white;
+}
+
+.orange {
+    color: $orange;
+}
+
+.gray-footer {
+    color: $gray-footer;
+}
+
+.font__main {
+    font-family: $font-family;
+}
+
+.spacing__1 {
+    margin-bottom: 0.5rem;
+}
+
+.spacing__2 {
+    margin-bottom: 0.75rem;
+}
+.spacing__3 {
+    margin-bottom: 1.25rem;
+}
+.spacing__4 {
+    margin-bottom: 3.5rem;
+}
+
+.spacing__5 {
+    margin-bottom: 1.75rem;
+}
+.spacing__6 {
+    margin-bottom: 2.25rem;
+}

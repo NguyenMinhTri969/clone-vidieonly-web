@@ -1,0 +1,40 @@
+@use "../../scss/" as *;
+
+.header {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header__nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+    align-items: center;
+}
+
+.header__logo {
+    height: 20px;
+}
+
+.header__button {
+    width: 8.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__content {
+    width: 50%;
+    margin: 5rem auto 0;
+}
+
+.header__text > span {
+    font-family: $font-secondary;
+    color: $white;
+    font-size: 52px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.content__button {
+    display: inline-block;
+}

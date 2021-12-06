@@ -1,0 +1,60 @@
+@use "../../scss/" as *;
+
+.btn {
+    color: $white;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    padding: 0.8rem auto;
+    font-family: $font-secondary;
+
+    &-main {
+        background-color: $orange;
+        border: 0;
+        font-weight: 300;
+        font-size: 0.9rem;
+        border-radius: 10px;
+        width: 10rem;
+        padding: 0.7rem 0;
+    }
+
+
+    &-second {
+        background: none;
+        border: 1px solid $white;
+        font-weight: 500;
+        font-size: 0.6em;
+        font-family: $font-family;
+        border-radius: 6px;
+        width: 4rem;
+        padding: 0.5rem 0;
+    }
+    &-second:hover {
+        background-color: $orange;
+        border: 0;
+    }
+}
+
+.bg-white:hover {
+    background-color: $white;
+    color: $black;
+}
+
+.bg-black {
+    background-color: $black;
+    color: $white;
+    border: 0;
+    &:hover {
+        background-color: $black;
+    color: $white;
+    border: 0;
+    }
+}
+
+.bg-orange {
+    background-color: $orange;
+    border: 0;
+    &:hover {
+        background-color: $orange;
+    }
+}

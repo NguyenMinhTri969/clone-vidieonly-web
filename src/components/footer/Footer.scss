@@ -1,0 +1,25 @@
+@use "../../scss/" as *;
+
+.footer {
+    background-color: #f9fafb;
+    border: 1px solid #eeeeee;
+    border-style: solid none none none;
+    height: 256px;
+    &__content {
+        display: flex;
+        justify-content: space-between;
+    }
+    &__left {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        width: 26%;
+    }
+    &__right {
+        display: flex;
+    }
+    &__title {
+        display: flex;
+        justify-content: space-between;
+    }
+}

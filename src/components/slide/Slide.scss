@@ -1,0 +1,15 @@
+@use "../../scss/" as *;
+
+.swiper {
+    height: 167px;
+    margin: 96px 0;
+}
+
+.swiper-slide {
+    background-position: center;
+    display: flex;
+    align-items: stretch;
+    background-size: cover;
+
+
+}
