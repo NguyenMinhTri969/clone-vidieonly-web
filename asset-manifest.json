@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/clone-vidieonly-web/static/css/main.feaff5ae.chunk.css",
+    "main.js": "/clone-vidieonly-web/static/js/main.9a527a33.chunk.js",
+    "main.js.map": "/clone-vidieonly-web/static/js/main.9a527a33.chunk.js.map",
+    "runtime-main.js": "/clone-vidieonly-web/static/js/runtime-main.a2b0dcc9.js",
+    "runtime-main.js.map": "/clone-vidieonly-web/static/js/runtime-main.a2b0dcc9.js.map",
+    "static/css/2.b890a6dc.chunk.css": "/clone-vidieonly-web/static/css/2.b890a6dc.chunk.css",
+    "static/js/2.c3937df3.chunk.js": "/clone-vidieonly-web/static/js/2.c3937df3.chunk.js",
+    "static/js/2.c3937df3.chunk.js.map": "/clone-vidieonly-web/static/js/2.c3937df3.chunk.js.map",
+    "index.html": "/clone-vidieonly-web/index.html",
+    "static/css/2.b890a6dc.chunk.css.map": "/clone-vidieonly-web/static/css/2.b890a6dc.chunk.css.map",
+    "static/css/main.feaff5ae.chunk.css.map": "/clone-vidieonly-web/static/css/main.feaff5ae.chunk.css.map",
+    "static/js/2.c3937df3.chunk.js.LICENSE.txt": "/clone-vidieonly-web/static/js/2.c3937df3.chunk.js.LICENSE.txt",
+    "static/media/img-01.3320d9f4.png": "/clone-vidieonly-web/static/media/img-01.3320d9f4.png",
+    "static/media/img-02.b92fe848.png": "/clone-vidieonly-web/static/media/img-02.b92fe848.png",
+    "static/media/longbanner-01.e0af1cf2.png": "/clone-vidieonly-web/static/media/longbanner-01.e0af1cf2.png",
+    "static/media/longbanner-02.cafa8b71.png": "/clone-vidieonly-web/static/media/longbanner-02.cafa8b71.png",
+    "static/media/mainbanner.7ba77d7d.png": "/clone-vidieonly-web/static/media/mainbanner.7ba77d7d.png",
+    "static/media/rolling-banner-01.49880eaf.png": "/clone-vidieonly-web/static/media/rolling-banner-01.49880eaf.png",
+    "static/media/rolling-banner-02.07ccae1d.png": "/clone-vidieonly-web/static/media/rolling-banner-02.07ccae1d.png",
+    "static/media/rolling-banner-03.7a3fb987.png": "/clone-vidieonly-web/static/media/rolling-banner-03.7a3fb987.png",
+    "static/media/rolling-banner-04.2b8d10bf.png": "/clone-vidieonly-web/static/media/rolling-banner-04.2b8d10bf.png",
+    "static/media/rolling-banner-05.564659cf.png": "/clone-vidieonly-web/static/media/rolling-banner-05.564659cf.png",
+    "static/media/rolling-banner-06.56ad277a.png": "/clone-vidieonly-web/static/media/rolling-banner-06.56ad277a.png",
+    "static/media/thumbnail-01.5f8eb4d6.png": "/clone-vidieonly-web/static/media/thumbnail-01.5f8eb4d6.png",
+    "static/media/thumbnail-02.5cb9b31a.png": "/clone-vidieonly-web/static/media/thumbnail-02.5cb9b31a.png",
+    "static/media/thumbnail-03.7fdb70b7.png": "/clone-vidieonly-web/static/media/thumbnail-03.7fdb70b7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2b0dcc9.js",
+    "static/css/2.b890a6dc.chunk.css",
+    "static/js/2.c3937df3.chunk.js",
+    "static/css/main.feaff5ae.chunk.css",
+    "static/js/main.9a527a33.chunk.js"
+  ]
+}
